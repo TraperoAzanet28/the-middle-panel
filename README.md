@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./middle-panel-preview.png" width="800"/>
+</p>
 # The Middle Panel
 
 The Middle Panel is a decision-making tool that combines game theory, psychology, and philosophy to help people navigate conflict and uncertainty.
